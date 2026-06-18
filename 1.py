@@ -436,5 +436,18 @@
 # print("User:", user)
 # print("Computer:", computer)
 
-# 
+# vowels=["a","e","i","o","u"]
+# letter=input("Enter a letter:")
+# if letter in vowels:
+#   print("vowels")
+# else:
+#   print("consonant")
+  
+
+# num=int(input("Enter a number:"))
+# if num>-10 and num<10:
+#   print("single digit")
+  
+# else:
+#   print("multiple digit")
   
